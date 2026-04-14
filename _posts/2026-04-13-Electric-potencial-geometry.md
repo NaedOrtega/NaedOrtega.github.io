@@ -12,3 +12,5 @@ This problem has a solutión with the metod of partial diferencial ecuations nam
   <img src="/files/animacion2d.gif" width="300">
 </p>
 
+You can see the code I made to animete this solution here: <a href="/files/Griffiths_Example_3.5.nb" target="_blank">Griffiths_Example_3.5</a>
+
