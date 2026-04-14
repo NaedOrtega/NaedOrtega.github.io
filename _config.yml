@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-MX"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+theme                    : "minima" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Naed Ortega / Academic Page"
 title_separator          : "-"
 name                     : &name "Fernando Naed Ortega Montero"
