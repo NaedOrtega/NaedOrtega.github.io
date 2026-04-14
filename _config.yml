@@ -13,7 +13,7 @@ title                    : "Naed Ortega / Academic Page"
 title_separator          : "-"
 name                     : &name "Fernando Naed Ortega Montero"
 description              : &description "Undergraduate Physics Student (4th Semester), UNAM, Electromagnetism enjoyer, Particles Physics enjoyer."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://naedortega.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://naedortega.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NaedOrtega/NaedOrtega.github.io"
@@ -23,25 +23,25 @@ repository               : "NaedOrtega/NaedOrtega.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : " "
+  avatar           : 
   name             : "Naed"
   pronouns         : "he/him" 
   bio              : "Physicist student, focus on lerning the very base of the high grade physics."
   location         : "México City, México"
   employer         : "UNAM"
-  uri              : " "
+  uri              : 
   email            : "naed.ortega@ciencias.unam.mx" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : " "
+  googlescholar    : 
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : " "
+  orcid            : 
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : " "
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -311,7 +311,6 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-redirect-from
   - jemoji
 
 # Mimic GitHub Pages with --safe
@@ -320,7 +319,6 @@ whitelist:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-redirect-from
   - jemoji
 
 
