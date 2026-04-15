@@ -1,2 +1,3 @@
 name : Naed Ortega
 markdown : kramdown
+permalink: /portfolio/:year/:month/:day/:title
